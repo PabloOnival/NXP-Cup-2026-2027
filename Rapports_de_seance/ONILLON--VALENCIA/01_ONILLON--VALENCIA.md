@@ -1,4 +1,4 @@
-# Séance 01 – Prénom NOM – 06/11/2026
+# Séance 01 – Pablo ONILLON--VALENCIA – 06/11/2026
 
 ## 🎯 Objectifs de la séance
 - Lancer l'impression 3D du châssis (fichiers du kit NXP Cup)
