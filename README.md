@@ -1,7 +1,8 @@
 # 🏎️ Voiture autonome – NXP Cup 2026/2027
 
 Projet de robotique expérimentale – Polytech Nice Sophia (Université Côte d'Azur)
-**Auteur :** Prénom NOM (monôme) · **Encadrant :** Pascal Masson
+
+**Auteur :** Pablo ONILLON--VALENCIA (monôme) · **Encadrant :** Pascal Masson
 
 ## 🎯 Objectif
 Concevoir une voiture autonome capable de suivre un circuit **le plus rapidement possible**, dans le cadre de la NXP Cup (saison 2026/2027).
