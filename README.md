@@ -2,7 +2,7 @@
 
 Projet de robotique expérimentale – Polytech Nice Sophia (Université Côte d'Azur)
 
-**Auteur :** Pablo ONILLON--VALENCIA
+**Auteur :**  ONILLON--VALENCIA Pablo
 
 ## 🎯 Objectif
 Concevoir une voiture autonome capable de suivre un circuit **le plus rapidement possible**, dans le cadre de la NXP Cup (saison 2026/2027).
@@ -18,10 +18,10 @@ Concevoir une voiture autonome capable de suivre un circuit **le plus rapidement
 ## 🗂️ Organisation du dépôt
 | Dossier | Contenu |
 |---|---|
-| [`Rapports_de_seance/`](Rapports_de_seance/) | Un rapport par séance (`NN_NOM.md`) |
+| [`Rapports_de_seance/`](Rapports_de_seance/) | Un rapport par séance |
 | [`Codes/`](Codes/) | Programmes Arduino (phase 1) et DEBIX (phase 2) |
-| [`CAO/`](CAO/) | Fichiers 3D du châssis et des supports |
-| [`Documents/`](Documents/) | Rapport bibliographique, présentations, rapport final |
+| [`CAO/`](CAO/) | Fichiers 3D du châssis |
+| [`Documents/`](Documents/) | Rapport bibliographique et rapport final |
 | [`Images/`](Images/) | Photos et schémas |
 | [`Videos/`](Videos/) | Liens vers les vidéos YouTube |
 
@@ -34,4 +34,3 @@ Concevoir une voiture autonome capable de suivre un circuit **le plus rapidement
 - [ ] Optimisation de la vitesse
 
 ## 🎥 Démonstrations
-*(liens YouTube à ajouter)*
