@@ -21,7 +21,7 @@ Concevoir une voiture autonome capable de suivre un circuit **le plus rapidement
 | [`Rapports_de_seance/`](Rapports_de_seance/) | Un rapport par séance |
 | [`Codes/`](Codes/) | Programmes Arduino (phase 1) et DEBIX (phase 2) |
 | [`CAO/`](CAO/) | Fichiers 3D du châssis |
-| [`Documents/`](Documents/) | Rapport bibliographique et rapport final |
+| [`Documents/`](Documents/) | Rapport bibliographique, présentations orales et rapport final |
 | [`Images/`](Images/) | Photos et schémas |
 | [`Videos/`](Videos/) | Liens vers les vidéos YouTube |
 
