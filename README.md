@@ -2,7 +2,7 @@
 
 Projet de robotique expérimentale – Polytech Nice Sophia (Université Côte d'Azur)
 
-**Auteur :** Pablo ONILLON--VALENCIA (monôme) · **Encadrant :** Pascal Masson
+**Auteur :** Pablo ONILLON--VALENCIA
 
 ## 🎯 Objectif
 Concevoir une voiture autonome capable de suivre un circuit **le plus rapidement possible**, dans le cadre de la NXP Cup (saison 2026/2027).
