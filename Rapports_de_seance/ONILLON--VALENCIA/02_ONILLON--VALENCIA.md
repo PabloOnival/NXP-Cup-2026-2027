@@ -39,7 +39,7 @@ Une fois le support terminé, j'ai lancé l'impression de la **plaque supérieur
   <img src="../../Images/seance02_support.png" width="25%">
   <img src="../../Images/seance02_pieces.jpg" width="45%">
 </p>
-<p align="center"><i>Plaque supérieure avec le support de l'Arduino Uno (en gris) – Pièces de direction imprimées avec supports organiques</i></p>
+<p align="center"><i>Plaque supérieure avec le support de l'Arduino Uno (en gris) – Pièces de direction imprimées</i></p>
 
 ## ⚠️ Problèmes rencontrés et solutions
 | Problème | Cause identifiée | Solution / piste |
@@ -50,6 +50,7 @@ Une fois le support terminé, j'ai lancé l'impression de la **plaque supérieur
 
 
 ## ➡️ Objectifs de la prochaine séance
+- Imprimer les pièces restantes
 - Récupérer les plaques du châssis et le support, et vérifier que l'Arduino Uno s'y fixe correctement
 - Commencer l'assemblage du châssis et du système de direction
 - Si les composants sont disponibles, écrire un premier programme Arduino testé sur table, par exemple la commande du servomoteur de direction
