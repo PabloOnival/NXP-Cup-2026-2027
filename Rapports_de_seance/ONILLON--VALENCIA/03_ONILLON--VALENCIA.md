@@ -21,21 +21,29 @@
  
 J'ai récupéré les plaques supérieure et inférieure du châssis ainsi que le premier support de carte. En le vérifiant, je me suis rendu compte que les trous de fixation de l'Arduino étaient disposés pour poser la carte « à l'envers », composants vers le bas. Or mon Arduino est équipée d'un shield : dans cette position, la carte ne peut pas être montée.
  
-![Pièces du châssis imprimées en 3D](images/seance03_pieces_imprimees.jpg)
+<p align="center">
+  <img src="../../Images/seance03_pieces_imprimees.jpg" width="40%">
+</p>
+<p align="center"><i>Plaques supérieure et inférieure du châssis et premier support de carte imprimés en 3D</i></p>
  
 ### 2. Correction et réimpression du support de carte
  
 Sur Fusion, j'ai appliqué une **symétrie axiale** aux trous de fixation de l'Arduino (entretoises) pour les placer du bon côté. Les 4 trous de fixation sur la plaque du châssis n'ont pas été modifiés. J'ai ensuite réimprimé le support corrigé.
  
-![Modélisation du support corrigé sur la plaque supérieure](images/seance03_support_CAO.png)
- 
-![Ancien et nouveau support de carte](images/seance03_support_avant_apres.jpg)
+<p align="center">
+  <img src="../../Images/seance03_support_CAO.png" width="45%">
+  <img src="../../Images/seance03_support_avant_apres.jpg" width="40%">
+</p>
+<p align="center"><i>Modélisation du support corrigé sur la plaque supérieure – Nouveau support de carte</i></p>
  
 ### 3. Fixation du support sur la plaque supérieure
  
 J'ai fixé le nouveau support sur la plaque supérieure du châssis avec **4 vis M2,5 × 10 et 4 écrous**.
  
-![Support fixé sur la plaque supérieure du châssis](images/seance03_support_fixe.jpg)
+<p align="center">
+  <img src="../../Images/seance03_support_fixe.jpg" width="35%">
+</p>
+<p align="center"><i>Support de carte fixé sur la plaque supérieure avec des vis M2,5 × 10 et des écrous</i></p>
  
 ### 4. Tentative de fixation de l'Arduino sur le support
  
@@ -67,7 +75,10 @@ Je n'ai pas poursuivi l'assemblage : les moteurs, qui se placent entre les deux 
 - **Compréhension du vissage autotaraudeur** : en échangeant avec mon père, j'ai compris qu'il est normal de forcer pour qu'une vis crée son propre filetage dans le plastique.
 - **Choix de la longueur de vis** : les trous des entretoises sont borgnes (ils ne traversent pas la plaque du support). La vis dispose donc de 1,6 mm (épaisseur de l'Arduino) + 6 mm (entretoise) = **7,6 mm**. Une vis M3 × 10 est trop longue : elle bute au fond du trou avant de serrer la carte. J'ai donc choisi des vis **M3 × 8**.
 - **Fixation de l'Arduino sur le support** : j'ai fixé la carte avec **2 vis M3 × 8** car la carte est parfaitement maintenue.
-![Arduino fixée sur le support](images/seance03_arduino_fixee.jpg)
+<p align="center">
+  <img src="../../Images/seance03_arduino_fixee.jpg" width="50%">
+</p>
+<p align="center"><i>Arduino Uno et son shield fixés sur le support avec 2 vis M3 × 8</i></p>
  
 ## ➡️ Objectifs de la prochaine séance
  
