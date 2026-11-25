@@ -35,7 +35,7 @@ J'ai choisi la convention suivante, identique sur les deux moteurs :
 - fil marron sur la borne **−**.
 
 <p align="center">
-  <img src="../../Images/seance04_fils.jpg" width="30%">
+  <img src="../../Images/seance04_fils.jpeg" width="30%">
   <img src="../../Images/seance04_moteurs.jpg" width="40%">
 </p>
 <p align="center"><i>Fils d'alimentation récupérés – Bornes des moteurs (borne + repérée par un point rouge)</i></p>
@@ -74,9 +74,6 @@ J'ai également récupéré le servomoteur MG996R qui commandera la direction.
 | Inhalation de fumées de soudure | Fumées dégagées par le flux contenu dans le fil d'étain | Se retirer légèrement en gardant le visage hors du panache de fumée |
 | Schéma de câblage et programme non réalisés | Priorité donnée à l'assemblage après la réception des moteurs | Reportés à la séance 5 |
 
-## 🏠 Travail personnel (hors séance)
-
-- Aucun travail personnel sur cette période
 
 ## ➡️ Objectifs de la prochaine séance
 
